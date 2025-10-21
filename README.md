@@ -33,6 +33,6 @@ git clone https://github.com/yourusername/Job-Roles-Skills-Analysis.git
 
 👤 Author
 Ziad Saied
-📧 Email: ziadsaed5@gmail.com
-🔗 LinkedIn: linkedin.com/in/ziad-saiieed
-💻 GitHub: github.com/ziadsaied
+- 📧 Email: ziadsaed5@gmail.com
+- 🔗 LinkedIn: linkedin.com/in/ziad-saiieed
+- 💻 GitHub: github.com/ziadsaied
